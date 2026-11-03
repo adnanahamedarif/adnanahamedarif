@@ -19,8 +19,12 @@
 <a href="https://github.com/adnanahamedarif">
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+ 
 </p>
 
+ <a href="https://github.com/adnanahamedarif?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=adnanahamedarif&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
 
 </div>
@@ -43,23 +47,63 @@ I enjoy turning ideas into real-world applications, exploring modern technologie
 - 🤝 Interested in Open Source and collaborative projects.
 - 🎯 Aspiring to become a Software Engineer.
 
----
 
-<!-- ==================== CURRENT ACTIVITIES ==================== -->
 
-## 🔭 What I'm Currently Doing
 
-| Category | Details |
-|---|---|
-| 🔨 Working On | [Bazar-Dor](https://github.com/adnanahamedarif/Bazar-Dor) |
-| 🌱 Learning | Next.js, TypeScript, Node.js, System Design & DSA |
-| 🤝 Collaboration | Open Source & Full-Stack Projects |
-| 💬 Ask Me About | React, Next.js, JavaScript, TypeScript, Node.js |
-| 📫 Contact | adnanahamedarif@gmail.com |
-| 🌐 Portfolio | [Visit Portfolio](https://adnanahamedarif.github.io/) |
+
 
 ---
 
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+### Backend Development & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
+</p>
+
+---
+
+<!-- GitHub Overview -->
+
+<h2 align="center">📌 GitHub Overview</h2>
+
+<p align="center">
+  <img width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanahamedarif&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnanahamedarif&theme=tokyonight"
+  />
+  <img width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnanahamedarif&theme=tokyonight"
+  />
+</p>
+
+---
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
@@ -159,83 +203,28 @@ Social Welfare, Volunteer Management, Community Development
 </tr>
 </table>
 
-<p align="center">
-<a href="https://github.com/adnanahamedarif?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
-
-### Backend Development & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
-</p>
-
----
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="./metrics.svg" width="100%" alt="GitHub Analytics Dashboard" />
-
-</div>
-
----
-
-
 ---
 
 <!-- ==================== CONNECT WITH ME ==================== -->
-
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/adnanahamedarif/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/adnan.ahamed.786/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:adnanahamedarif@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
 
-<a href="https://github.com/adnanahamedarif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/adnanahamedarif/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/adnan.ahamed.786/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="mailto:adnanahamedarif@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://adnanahamedarif.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<p align="center">
+  <strong>Let's build something interesting.</strong>
+</p>
 
 <br/><br/>
 
