@@ -86,7 +86,7 @@ I enjoy turning ideas into real-world applications, exploring modern technologie
 
 <!-- GitHub Overview -->
 
-<h2 align="center">📌 GitHub Overview</h2>
+<h2>📌 GitHub Overview</h2>
 
 <p align="center">
   <img width="100%"
