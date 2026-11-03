@@ -66,29 +66,30 @@ I enjoy turning ideas into real-world applications, exploring modern technologie
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Bazar-Dor
+<h3>🛒 Bazar-Dor</h3>
 
-A web application focused on displaying market prices and providing useful market information.
+A web application that displays market price information through a user-friendly interface with integrated APIs.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+<strong>Tech Stack:</strong><br>
+Next.js, TypeScript, API Integration, Better Auth
 
 <a href="https://github.com/adnanahamedarif/Bazar-Dor">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<h3>📚 UniDesk</h3>
 
-### 📚 UniDesk
+A C# desktop application designed to help university students manage their academic activities, including assignments, class routines, exams, CGPA and study sessions.
 
-A student academic organizer designed to manage courses, assignments, class routines, exams and CGPA.
+<strong>Tech Stack:</strong><br>
+C#, .NET, Windows Forms (WinForms), Microsoft SQL Server
 
-**Tech Stack:** Web Development
-
-<a href="https://github.com/adnanahamedarif?tab=repositories">
+<a href="https://github.com/adnanahamedarif/UniDesk">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -96,30 +97,62 @@ A student academic organizer designed to manage courses, assignments, class rout
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏋️ FitLog
+<h3>📰 Bangla News 24</h3>
 
-A workout library application that helps users explore workouts and manage personal workout plans.
+A modern and responsive news website designed to present news content through a clean and user-friendly interface.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Context API
+<strong>Tech Stack:</strong><br>
+Next.js, TypeScript, Tailwind CSS
 
-<a href="https://github.com/adnanahamedarif?tab=repositories">
+<a href="https://github.com/adnanahamedarif/Bangla-news-24">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<h3>❤️ Agantuk Blood Bank</h3>
 
-### ❤️ Agantuk
+A web-based platform that connects blood donors with people in need and helps manage donor information.
 
-A social welfare initiative supporting blood donation, education and community development.
+<strong>Tech Stack:</strong><br>
+HTML, CSS, JavaScript, Tailwind CSS, Google Sheets
 
-**Focus:** Community Development, Volunteer Management & Technology
+<a href="https://agantukbloodbank.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>💰 Agantuk Fund Manager</h3>
+
+A web-based fund management application developed to support donation tracking, expense management and financial activities for a community-based nonprofit organization.
+
+<strong>Focus:</strong><br>
+Fund Management, Donation Tracking, Financial Management
+
+<a href="https://agantukfundmanager.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌱 Agantuk</h3>
+
+A community-driven social welfare initiative focused on blood donation, education support, financial assistance and community development.
+
+<strong>Focus:</strong><br>
+Social Welfare, Volunteer Management, Community Development
 
 <a href="https://agantukbd.netlify.app/">
-<img src="https://img.shields.io/badge/VISIT_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/VISIT_WEBSITE-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -128,10 +161,9 @@ A social welfare initiative supporting blood donation, education and community d
 
 <p align="center">
 <a href="https://github.com/adnanahamedarif?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-
 ---
 
 <!-- ==================== TECH STACK ==================== -->
@@ -176,15 +208,6 @@ A social welfare initiative supporting blood donation, education and community d
 
 ---
 
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanahamedarif&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
-
-</div>
 
 ---
 
