@@ -206,8 +206,6 @@ Social Welfare, Volunteer Management, Community Development
   <strong>Let's build something interesting.</strong>
 </p>
 
-<br/><br/>
-
 ### 💡 "Great things are built one line of code at a time."
 
 **Thanks for visiting my profile! Let's connect and build something amazing. 🚀**
