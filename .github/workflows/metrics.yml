@@ -23,19 +23,16 @@ jobs:
 
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: adnanahamedarif
-
-          # Important: Output filename
           filename: metrics.svg
 
           template: classic
           config_timezone: Asia/Dhaka
 
-          # Profile Statistics
+          # Main Profile Statistics
           base: header, activity, community, repositories, metadata
 
-          # Language Analytics
+          # Programming Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
