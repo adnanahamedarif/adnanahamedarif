@@ -42,11 +42,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          # Recent Activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+
           # GitHub Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 6
-
-          # Recent Activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
