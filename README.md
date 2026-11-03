@@ -56,30 +56,10 @@ I enjoy turning ideas into real-world applications, exploring modern technologie
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
-
-### Backend Development & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma,vercel,netlify&perline=12" />
 </p>
 
 ---
