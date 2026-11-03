@@ -1,3 +1,4 @@
+
 <!-- ==================== HERO SECTION ==================== -->
 
 <div align="center">
@@ -9,15 +10,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Full-Stack+Web+Developer;Passionate+Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p>
-  <a href="https://adnanahamedarif.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:adnanahamedarif@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/adnanahamedarif">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://adnanahamedarif.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:adnanahamedarif@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/adnanahamedarif">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=adnanahamedarif&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
@@ -36,11 +37,11 @@ I enjoy turning ideas into real-world applications, exploring modern technologie
 
 - 🎓 Studying Computer Science & Engineering at AIUB.
 - 💻 Interested in Full-Stack Web Development.
-- 🚀 Currently building projects with Next.js and TypeScript.
+- 🚀 Building applications with Next.js and TypeScript.
 - 🧠 Improving my Data Structures & Algorithms skills.
 - 🌱 Exploring System Design and Software Engineering.
 - 🤝 Interested in Open Source and collaborative projects.
-- 🎯 My goal is to become a Software Engineer.
+- 🎯 Aspiring to become a Software Engineer.
 
 ---
 
@@ -55,15 +56,13 @@ I enjoy turning ideas into real-world applications, exploring modern technologie
 | 🤝 Collaboration | Open Source & Full-Stack Projects |
 | 💬 Ask Me About | React, Next.js, JavaScript, TypeScript, Node.js |
 | 📫 Contact | adnanahamedarif@gmail.com |
-| 🌐 Portfolio | [adnanahamedarif.github.io](https://adnanahamedarif.github.io/) |
+| 🌐 Portfolio | [Visit Portfolio](https://adnanahamedarif.github.io/) |
 
 ---
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
-
-Here are some projects I've worked on or contributed to.
 
 <table>
 <tr>
@@ -76,22 +75,21 @@ A web application focused on displaying market prices and providing useful marke
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS
 
 <a href="https://github.com/adnanahamedarif/Bazar-Dor">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+
 <td width="50%">
 
 ### 📚 UniDesk
 
 A student academic organizer designed to manage courses, assignments, class routines, exams and CGPA.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+**Tech Stack:** Web Development
 
-<!-- Replace with your actual repository URL -->
-
-<a href="https://github.com/adnanahamedarif">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/adnanahamedarif?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -102,27 +100,26 @@ A student academic organizer designed to manage courses, assignments, class rout
 
 ### 🏋️ FitLog
 
-A workout library application that helps users explore workouts and manage their personal workout plans.
+A workout library application that helps users explore workouts and manage personal workout plans.
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Context API
 
-<!-- Replace with your actual repository URL -->
-
-<a href="https://github.com/adnanahamedarif">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/adnanahamedarif?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+
 <td width="50%">
 
 ### ❤️ Agantuk
 
-A charity and volunteer management initiative focused on blood donation, education support and social welfare.
+A social welfare initiative supporting blood donation, education and community development.
 
 **Focus:** Community Development, Volunteer Management & Technology
 
 <a href="https://agantukbd.netlify.app/">
-<img src="https://img.shields.io/badge/Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/VISIT_WEBSITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -130,9 +127,9 @@ A charity and volunteer management initiative focused on blood donation, educati
 </table>
 
 <p align="center">
-  <a href="https://github.com/adnanahamedarif?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/adnanahamedarif?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -169,99 +166,58 @@ A charity and volunteer management initiative focused on blood donation, educati
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./metrics.svg" alt="Adnan's GitHub Metrics" width="100%" />
+<img src="./metrics.svg" width="100%" alt="GitHub Analytics Dashboard" />
 
 </div>
 
 ---
+
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanahamedarif&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanahamedarif&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 Bazar-Dor
-
-Market price information platform.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
-<a href="https://github.com/adnanahamedarif/Bazar-Dor">View Repository →</a>
-
-</td>
-<td width="50%">
-
-### 📚 UniDesk
-
-Student academic organizer for managing courses, assignments, routines and exams.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
-<a href="https://github.com/adnanahamedarif?tab=repositories">Explore Repositories →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏋️ FitLog
-
-Workout library and personal workout planning application.
-
-**Stack:** Next.js · TypeScript · Context API
-
-<a href="https://github.com/adnanahamedarif?tab=repositories">Explore Repositories →</a>
-
-</td>
-<td width="50%">
-
-### ❤️ Agantuk
-
-A social welfare initiative supporting blood donation, education and community development.
-
-<a href="https://agantukbd.netlify.app/">Visit Website →</a>
-
-</td>
-</tr>
-</table>
-
----
+<!-- ==================== CONNECT WITH ME ==================== -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/adnanahamedarif">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/adnanahamedarif/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://www.facebook.com/adnan.ahamed.786/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 <a href="mailto:adnanahamedarif@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://adnanahamedarif.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile! Let's build something amazing. 🚀**
+### 💡 "Great things are built one line of code at a time."
+
+**Thanks for visiting my profile! Let's connect and build something amazing. 🚀**
 
 </div>
